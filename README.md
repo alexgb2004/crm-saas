@@ -23,4 +23,5 @@ user: test@data.com  , password: test@data.com
 ## Screenshots
 <img width="1860" height="701" alt="image" src="https://github.com/user-attachments/assets/bb4cbdd2-66b2-4f5d-9cd5-7561458ff441" />
 
+<img width="589" height="725" alt="image" src="https://github.com/user-attachments/assets/fa47dfc9-404c-43c9-aba0-2fab4204f5aa" />
 
